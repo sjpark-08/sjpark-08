@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text='안녕하세요%20박성준의%20Github입니다'" />
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text="안녕하세요%20박성준의%20Github입니다")
 </p>
+<br><br>
 
 <div align="center">
   <h3>🛠️ Tech Stack 🛠️</h3>
