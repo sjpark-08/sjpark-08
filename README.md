@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=enthsxpzm&layout=compact&theme=dracula" height="180" />
   </a>
 </p>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enthsxpzm)](https://solved.ac/enthsxpzm/)
+
 
 
 
