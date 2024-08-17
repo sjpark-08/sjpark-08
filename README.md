@@ -39,7 +39,8 @@ Here are some ideas to get you started:
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ IDEA-%23FF9900?style=for-the-badge&logo=intellij idea&logoColor=white" />
 </div>
-
+<br><br>
+---
 <p align="center">
   <a href="https://github.com/sjpark-08">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark-08&layout=compact&theme=dracula" height="180" />
