@@ -40,6 +40,15 @@ Here are some ideas to get you started:
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ IDEA-%23FF9900?style=for-the-badge&logo=intellij idea&logoColor=white" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/sjpark-08">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark9&layout=compact&theme=dracula" height="180" />
+  </a>
+  <a href="https://github.com/sjpark-08">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=enthsxpzm&layout=compact&theme=dracula" height="180" />
+  </a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark-08&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enthsxpzm)](https://solved.ac/enthsxpzm/)
