@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark-08&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enthsxpzm)](https://solved.ac/enthsxpzm/)
 
