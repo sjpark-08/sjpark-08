@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />
   <img alt="notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" />
   <br>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ IDEA-%23FF9900?style=for-the-badge&logo=intellij idea&logoColor=white" />
 </div>
