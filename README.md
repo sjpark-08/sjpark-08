@@ -44,10 +44,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/sjpark-08">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark-08&layout=compact&theme=dracula" height="180" />
   </a>
-  <a href="https://solved.ac/profile/enthsxpzm"
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjpark-08" height="180" />
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enthsxpzm)](https://solved.ac/enthsxpzm/)
-  </a>
 </p>
 
 
