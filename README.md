@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img alt="Kubernetes" src ="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)"/>
   <br>
-  <img alt="Amazon EKS" src="https://img.shields.io/badge/amazoneks-FF9900.svg?style=for-the-badge&logo=Amazon%20EKS&logoColor=white)"/>
+  <img alt="Amazon EKS" src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=Amazon%20EKS&logoColor=white)"/>
   <img alt="EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img alt="S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
   <br>
